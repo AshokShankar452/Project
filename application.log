@@ -1,0 +1,8 @@
+2023-10-16 17:03:49,439  INFO [main] LoginTest:31 - ****************************** Starting test cases execution  *****************************************
+2023-10-16 17:03:54,597  INFO [main] LoginTest:37 - launching chrome broswer
+2023-10-16 17:04:02,957  INFO [main] LoginTest:44 - entering application URL
+2023-10-16 17:04:02,957  WARN [main] LoginTest:45 - Hey this just a warning message
+2023-10-16 17:04:02,959 FATAL [main] LoginTest:46 - hey this is just fatal error message
+2023-10-16 17:04:02,960 DEBUG [main] LoginTest:47 - this is debug message
+2023-10-16 17:04:02,982  INFO [main] LoginTest:53 - ****************************** starting test case *****************************************
+2023-10-16 17:04:02,983  INFO [main] LoginTest:54 - ****************************** freeCrmTitleTest *****************************************
